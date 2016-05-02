@@ -1,4 +1,4 @@
-# quipjet
+# quizpet
 How to run it?
 
 (1)Import the database using the sql file "webex21.sql" in the "db file" folder(If the database doesn't exist.).
